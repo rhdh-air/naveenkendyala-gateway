@@ -79,7 +79,7 @@ public class SummitBackendResource {
         ).entity("inserted custom data point").build();
     }
     
-
+    
     //How to use it:
     //The coordinates number array in the JSON snippet is specified [lat,lng] -> so latitude first, then longitude.
     //1. You can retrieve the GPS coordinates e.g. for your home town or some other city from here https://www.latlong.net/
